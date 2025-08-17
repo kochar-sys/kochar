@@ -2168,7 +2168,7 @@ do
         end
     })
     Tabs.Infos:AddSection("Information")
-    Tabs.Infos:AddParagraph({Title = "This script is no longer updated.",})
+    Tabs.Infos:AddParagraph({Title = "Subscribe to @MarterbulYT.",})
     Tabs.Infos:AddSection("Support")
     Tabs.Infos:AddParagraph({
         Title = "Anti-AFK",
